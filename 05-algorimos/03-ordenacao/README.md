@@ -1,0 +1,1 @@
+- **Algoritmos com JavaScript**: Algoritmos de ordenação (como Bubble Sort, Merge Sort, Quick Sort), algoritmos de busca (busca linear e busca binária), e técnicas de programação como recursão.

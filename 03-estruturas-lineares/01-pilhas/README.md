@@ -361,6 +361,10 @@ Podemos facilmente modificar o algoritmo anterior para que funcione como um conv
  }
  ```
 
- ### Balanceamento de Parenteses
+### Outros Projetos
 
- ### Torre de Hanoi
+Outros projetos utilizando o conceito de pilhas que podem ser realizados são:
+
+- Balanceamento de Parenteses
+- Torre de Hanoi
+- Editor de texto com histórico
